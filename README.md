@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="40" alt="airflow logo"  />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="scikit learn logo"  />
+  <img src="https://img.shields.io/badge/streamlit-%23F7432.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="40" alt="streamlit logo"  />
 </div>
 
 ###
