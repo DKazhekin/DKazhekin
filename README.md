@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My name is Denis and I am from Russia, Moscow<br><br>- 🔭 I’m in love with Machine / Deep Learning, especially in NLP<br>- 📚 I'm currently studying at Moscow Aviation Institute, SberSchool21 and WBTech (Data Analyst)<br>- 💻 Also, I am Data Scientist in Alfa Bank Laboratory (Centre of NLP competence)<br></p>
+<p align="left">My name is Denis and I am from Russia, Moscow<br><br>- 🔭 I’m in love with Machine / Deep Learning, especially in NLP<br>- 📚 I'm currently studying at Moscow Aviation Institute, SberSchool21 and Avito Analytics Academy (Data Science track)<br>- 💻 Also, I am Data Scientist in Alfa Bank Laboratory (Centre of NLP competence)<br></p>
 
 ###
 
